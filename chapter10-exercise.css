@@ -16,7 +16,7 @@ main{
 }
 
 .step-box{
-  float: none;
+  float: left;
   width: 300px;
   margin-right: 30px;
   padding: 10px;
